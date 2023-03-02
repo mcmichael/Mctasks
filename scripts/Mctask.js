@@ -1,5 +1,5 @@
 
-class Mctasks{
+class Mctask{
 
     constructor(id, name, description, date, hour){
         this.id = id;
