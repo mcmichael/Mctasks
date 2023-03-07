@@ -1,2 +1,15 @@
-const Objectives = ["Work","Workout","Studies","Personal projects","Diet","Healthy","Money","Home","Trip","Fun activites",
-"Family objectives"];
+{
+McObjectives = [
+{"Work":"Work"},
+{"Workout":"Workout"},
+{"Studies":"Studies"},
+{"Personal projects":"Personal projects"},
+{"Diet":"Diet"},
+{"Healthy":"Healthy"},
+{"Money":"Money"},
+{"Home":"Home"},
+{"Trip":"Trip"},
+{"Fun activites":"Fun activites"},
+{"Family objectives":"Family objectives"},
+]
+};
